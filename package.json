@@ -1,0 +1,10 @@
+{
+  "name": "jest.automockoff",
+  "version": "0.1.0",
+  "description": "jest.autoMockOff()",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "chencheng <sorrycc@gmail.com>",
+  "license": "MIT"
+}
